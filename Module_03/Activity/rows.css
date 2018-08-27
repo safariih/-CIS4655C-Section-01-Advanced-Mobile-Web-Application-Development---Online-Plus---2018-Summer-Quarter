@@ -1,0 +1,15 @@
+#banner{
+	background-color: grey;
+	color:black;
+}
+#top-bar{
+	background-color: black;
+	color:white;
+}
+#my_link{
+	color:white;
+}
+#image{
+	border:solid;
+	border-width: 5px;
+}
